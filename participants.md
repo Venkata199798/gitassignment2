@@ -23,3 +23,4 @@ A list of participants in CSC 195
 * Elias Mulhall
 * Yazan A. Kittaneh
 * Venkata Subba Reddy Onteddu
+* Venkat Yashwanth
